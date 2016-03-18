@@ -1,34 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="75021e66-1ca2-41bf-9ec2-c9d24783e5ef" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ball8/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../8ball/.bowerrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../8ball/.editorconfig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../8ball/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../8ball/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../8ball/.idea/8ball.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../8ball/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../8ball/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../8ball/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../8ball/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../8ball/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../8ball/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../8ball/config.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../8ball/gulpfile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../8ball/hooks/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../8ball/hooks/after_prepare/010_add_platform_class.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../8ball/ionic.project" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../8ball/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../8ball/scss/ionic.app.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../8ball/www/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../8ball/www/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../8ball/www/img/8ball.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../8ball/www/img/ionic.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../8ball/www/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../8ball/www/js/app.js" afterPath="" />
-    </list>
+    <list default="true" id="75021e66-1ca2-41bf-9ec2-c9d24783e5ef" name="Default" comment="" />
     <ignored path="soundboard.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -247,7 +220,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../caffeinehit-list" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="editor.config.accepted" value="true" />
@@ -262,12 +235,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1458246841648</updated>
-      <workItem from="1458246842907" duration="3874000" />
+      <workItem from="1458246842907" duration="4482000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3874000" />
+    <option name="totallyTimeSpent" value="4482000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1096" height="1896" extended-state="6" />
