@@ -1,6 +1,6 @@
 {
   "name": "tvchat",
-  "app_id": "",
+  "app_id": "caa51d26",
   "gulpStartupTasks": [
     "sass",
     "watch"
